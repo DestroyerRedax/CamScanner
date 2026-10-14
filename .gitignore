@@ -1,0 +1,7 @@
+*.apk
+build/
+.gradle/
+rust/target/
+app/src/main/jniLibs/
+local.properties
+.idea/
